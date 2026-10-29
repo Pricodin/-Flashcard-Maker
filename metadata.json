@@ -1,0 +1,8 @@
+{
+  "name": "Remix Flashcard Maker",
+  "description": "Effortless flashcards on any subject. Just name a topic, and Gemini creates your study deck.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
